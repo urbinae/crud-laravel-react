@@ -50,7 +50,6 @@ export default class Add extends Component {
 				  </div>
 				  <button type="submit" className="btn btn-primary">Submit</button>
 				</form>
-                <Listing />
             </div>
         );
     }
